@@ -1,0 +1,52 @@
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol,
+li,
+dl,
+dt,
+dd,
+input,
+header,
+main,
+form {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font: 0.37333333rem/1.5 arial, verdana, helvetica, Microsoft Yahei, sans-serif;
+  color: #7e8793;
+  background-color: #fff;
+}
+ul,
+ol {
+  list-style: none;
+}
+i {
+  font-style: normal;
+}
+a {
+  color: #7e8793;
+  text-decoration: none;
+}
+img {
+  vertical-align: middle;
+}
+input {
+  border: none;
+  outline: none;
+  color: #7e8793;
+  background-color: #fff;
+}
+button {
+  cursor: pointer;
+  border: none;
+  background-color: #fff;
+}
